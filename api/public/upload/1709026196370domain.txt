@@ -1,0 +1,121 @@
+database:----
+
+
+1.  admin_color--
+
+DB_USER=admin_gamelogin
+DB_NAME=admin_color
+DB_PASS=7fn18Sh_6
+DB_SERVER=103.186.185.241
+---------------------------------------------------------------------
+
+2.  apipartner_admin
+
+DB_USER=sa
+DB_NAME=apipartner_admin
+DB_PASS=ABpym@123
+DB_Host=apicompany.in
+---------------------------------------------------------------------
+
+
+3.   admin_wishme
+
+SQL_HOST=shoppinghere.in
+SQL_PORT=1433
+SQL_USER=admin_wish
+SQL_PASSWORD=dT3u6v7$5
+SQL_DB=admin_wishme
+-------------------------------------------------------------------------
+
+4.  admin_mobiwik
+
+SQL_HOST=103.186.185.241
+SQL_PORT=1433
+SQL_USER=admin_mobiwik
+SQL_PASSWORD=4gAe_2b76
+SQL_DB=admin_mobiwik
+---------------------------------------------------------------------
+
+
+5.  admin_apicompany
+
+SQL_HOST=apicompany.in
+SQL_PORT=1433
+SQL_USER=admin_apicomp
+SQL_PASSWORD=D4~skz008
+SQL_DB=admin_apicompany
+----------------------------------------------------------------
+
+6.    admin_shopping
+
+host: shoppinghere.in,
+port: 1433,
+username: admin_shop,
+password: 7Gm%oh315,
+database: admin_shopping,
+
+--------------------------------------------------------------
+
+database without work
+
+7.  admin_host
+8.  Mobikwik
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
+Domain
+
+1.apispartner.com
+=>apispartner website fronted
+
+2.apicompany.in
+=>dashboard website fronted
+
+3.apispartner.in
+=>mobiwik backend
+
+4.b2b.apicompany.in
+=>recharge (s.w.pay) backend
+
+5.shoppinghere.in
+=>wishme fronted+backend
+
+6.game.apispartner.in
+=>ludo website fronted
+
+7.futureclubs.in
+=>color prediction fronted+backend
+
+8.developinfotech.com
+=>develop infotech website fronted
+
+9.Onestore.shoppinghere.in
+=>onestore fronted+backend
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+gmail
+
+1. manjeet
+a.  apispartner7@gmail.com
+b.  developinfoatech@gmail.com
+
+
+2. Rajendra
+a.  bhimpe.in@gmail.com
+b.  bhimpay.in@gmaail.com
+c.  developinfoatech@gmail.com
+d.  infoshoppinghere@gmaail.com
+
+
+3. Manish
+a. ---
+
+4.Rahul
+rahul ka system chal nhi rha

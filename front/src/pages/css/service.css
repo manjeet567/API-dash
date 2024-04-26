@@ -1,0 +1,55 @@
+#servicelist h2{
+    margin-bottom: 30PX;
+}
+
+#search .result-box ul{
+    padding: 5px 10px;
+    border-top: 1px solid #999;
+}
+#search .result-box ul li{
+    list-style: none;
+    border-radius: 3px;
+    padding: 5px 10px ;
+    cursor: pointer;
+}
+body{
+    background: rgb(243, 243, 243);
+}
+
+#search .search-box{
+    width: 300px;
+    background: #fff;
+    border-radius: 5px;
+}
+#search #servicelist .result-box ul li:hover{
+    background-color: #e9f3ff;
+}
+#search #col{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+#search input{
+    flex: 1;
+    height: 50px;
+    background: transparent;
+    outline: 0;
+    border: none;
+    font-size: 18px;
+    color: #333;
+}
+#search button{
+    background: transparent;
+    border: 0;
+    outline: 0;
+}
+button .fa-solid{
+    width: 25px;
+    color: blue;
+    font-size: 22px;
+    cursor: pointer;
+}
+#search .result-box{
+    max-height: 200px;
+    overflow-y: scroll;
+}
